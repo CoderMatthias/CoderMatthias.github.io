@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Data analyist, with bioinformatics leanings
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Matt.  I work as a bioinformaticist, but am overall more broadly interested in analyzing large data sets and automating all the time consuming jobs currently being done.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Important facts about my computation education before you judge my coding ability:
+- I didn't have a computer in the house until I was 10.
+- I didn't have the internet until I was 14, and that was only dial-up.
+- I didn't pursue anything computational in my undergrad.
+- I got my PhD in a strictly molecular, at-the-bench lab setting.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Hopefully that will explain a bit.
